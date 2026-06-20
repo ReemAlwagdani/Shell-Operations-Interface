@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package test;
 
 import javafx.application.Application;
@@ -24,22 +20,12 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 
-/**
- *
- * @author joud
- */
-
-/*
 
 section : EAR
 instructor : dr. Noha Al Amer
-students :
-Joud Hariri 2307656
-Rama Alzahrani 2306533
-Reem Alwagdani 2323653
 
 */
-public class OS_LabProject extends Application {
+public class Linux_Command_GUI extends Application {
 
     /*
      create a file object to keep track of directory we are at
