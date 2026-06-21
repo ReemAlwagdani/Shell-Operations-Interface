@@ -21,11 +21,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 
 
-section : EAR
-instructor : dr. Noha Al Amer
-
-*/
-public class Linux_Command_GUI extends Application {
+public class Shell_Operations_Interface extends Application {
 
     /*
      create a file object to keep track of directory we are at
